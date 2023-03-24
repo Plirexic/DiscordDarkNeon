@@ -20,7 +20,7 @@
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
   --rgb-highlight: 155, 82, 255; /* The main highlight color */
-  --rgb-background: 0, 0, 0; /* The main background color */
+  --rgb-background: 252, 31, 255; /* The main background color */
   --rgb-text: 255, 255, 255; /* The main text color */
   --rgb-close-button: 255, 0, 255; /* The main "close this" or "deny" color */
   --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
@@ -30,7 +30,7 @@
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: url('C:\Users\Max\Pictures\PhotosDownload\raidenDiscord.png'); /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: unset; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which helps with readability of text infront of it */
